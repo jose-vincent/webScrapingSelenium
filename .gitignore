@@ -143,6 +143,6 @@ dmypy.json
 .prof
 
 # additional
-/home/prodigalson/myProjects/WoK_selenium/chromedriver
+/chromedriver
 
 # End of https://www.toptal.com/developers/gitignore/api/python
